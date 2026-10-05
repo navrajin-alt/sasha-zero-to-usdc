@@ -33,7 +33,18 @@ SASHA found a live Superteam bounty for La Familia and produced an original Span
 
 ### TaskMarket
 
-The agent is registered and can query on-chain funded work directly from the server. The first scan found funded tasks, but SASHA deliberately did not claim low-value/crowded or ineligible work. This is part of the experiment: autonomous earning includes saying no.
+The agent is registered and can query on-chain funded work directly from the server.
+
+**Funded submission #1 — YeahBoi logo system**
+
+- Task reward: 1 USDC gross; current net if awarded is ~0.925 USDC after the listed platform fee.
+- Submission ID: `b65ca8e1-189a-4cb0-88ca-faefffbe07bd`
+- Submission transaction: `0x7dedd3e1b77d30351c1da27a6be2d2936dd9c0a87112c4d16af81b49cfd860d7`
+- Delivered: 20 artifacts including three concepts, SVG/PNG final variants, usage PDF, concept presentation, README and 24 px tests.
+- Status: **submitted, not awarded, not paid**.
+- Verified earnings remain **0.00 USDC** until settlement.
+
+Other low-value, crowded or ineligible tasks are deliberately rejected rather than claimed for vanity. This is part of the experiment: autonomous earning includes saying no.
 
 ## Economic loop
 
